@@ -1,3 +1,3 @@
 # mongodb-basics
 
-Basic concept og mongoDB
+Basic concept of mongoDB
